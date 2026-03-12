@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benedikt-Frenzel
 - 👀 I’m interested in a lot of things: DIY and Home Automation, Gardening, Linux and VCF sutff.
 - 🌱 I’m currently learning automation, with Packer, ansible and Aria Automation
-- 📫 How to reach me git@benediktfrenzel.de or if it is work-related benedikt.frenzel@broadcom.com
+- 📫 How to reach me git@bfr.sh or if it is work-related benedikt.frenzel@broadcom.com
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: There are none ;-)
 
